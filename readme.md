@@ -4,8 +4,8 @@ Ella Aronsson loggbok
 ---------
 gjort:
 
-*exempel 1 
-*7040 uppgift 1 
+* exempel 1 
+* 7040 uppgift 1 
 
 24-08-26
 -----------
