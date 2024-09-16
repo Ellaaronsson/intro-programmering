@@ -1,7 +1,8 @@
 namn = input("vad heter du?")
 print ("hej", namn, "!")
-print ("vad är din favoritfärg?")
-input("rikard din favoritfärg är lila.")
+färg= print ("vad är din favoritfärg?")
+input(namn, "din favoritfärg är", färg)
+
        
        
        
