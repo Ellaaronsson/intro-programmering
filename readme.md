@@ -8,6 +8,11 @@ gjort:
 * 7045 uppgift 1 
 * 7045 uppgift 2
 * 7050 uppgift 1
+
+24-09-17
+--------
+gjort:
+
 * 7050 uppgift 2
 * 7050 uppgift 3
 
