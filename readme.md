@@ -1,6 +1,13 @@
 Ella Aronsson loggbok
 =====================
 ---------
+24-09-30
+--------
+gjort:
+* 7061 uppgift 1
+* 7061 uppgfit 2
+* 7061 uppgift 3
+
 24-09-23
 -------
 gjort
@@ -8,7 +15,7 @@ gjort
 * 7050 upggift 5
 * 7050 uppgift 6
 * 7050 uppgift 7
-* 7060 uppgift 1 
+* 7060 uppgift 1 (inte klar än)
 
 24-09-16
 --------

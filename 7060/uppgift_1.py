@@ -22,10 +22,6 @@ while index >= 2:
     print (index)
     index = index - 3
 
-print('E utskirft:')
-index = 1
-while index <= :
-    print (index)
-    index = index + 1
+
 
 
