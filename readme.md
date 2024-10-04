@@ -1,6 +1,12 @@
 Ella Aronsson loggbok
 =====================
----------
+4-10-30
+--------
+gjort:
+* 7070 uppgift 1
+* 7070 uppgift 2 (inte klar)
+* extra uppgift 1 (kollade en youtube video för ville testa hur det fungerade)
+
 24-09-30
 --------
 gjort:

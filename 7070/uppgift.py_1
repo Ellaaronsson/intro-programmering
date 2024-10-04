@@ -1,3 +1,0 @@
-import random
-tal1 0 random.randrange(3)
-print("slumptal mellan 0 och 2:", tal 1)
