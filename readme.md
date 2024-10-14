@@ -1,5 +1,11 @@
 Ella Aronsson loggbok
 =====================
+11-10-30
+--------
+gjort:
+* 7070 uppgift 2 (blev klar)
+* 7070 uppgift 3 
+* 7070 uppgift 4 (inte klar)
 4-10-30
 --------
 gjort:
