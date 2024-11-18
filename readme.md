@@ -1,12 +1,63 @@
 Ella Aronsson loggbok
 =====================
+24-11-18
+--------
+gjort:
+* 7100 uppgift 2
+24-11-15
+---------
+gjort:
+* 7100 uppgift 1 (blev klar)
+24-11-11
+--------
+gjort:
+* 7096 uppgit 1
+* 7100 uppgift 1 (blev inte klar)
+24-11-8
+-------
+gjort:
+* 7095 uppgift 5
+* 7096 uppgift 1
+24-11-4
+-------
+gjort:
+* 7095 uppgift 3
+* 7095 uppgift 4
+
+24-11-1
+-------
+gjort:
+* 7095 uppgift 1
+* 7095 uppgift 2
+
+24-10-28
+---------
+gjort:
+* 7070 uppgift 9 (klar)
+* 7073 uppgift 1
+* 7073 uppgift 2
+
+24-10-25
+--------
+gjort:
+* 7070 uppgift 7
+* 7070 uppgift 8
+* 7070 uppgift 9(inte klar)
+
+24-10-21
+--------
+gjort:
+* 7070 uppgift 4
+* 7070 uppgift 5
+* 7070 uppgift 6
+
 11-10-30
 --------
 gjort:
 * 7070 uppgift 2 (blev klar)
 * 7070 uppgift 3 
 * 7070 uppgift 4 (inte klar)
-4-10-30
+24-10-30
 --------
 gjort:
 * 7070 uppgift 1
