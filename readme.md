@@ -1,23 +1,33 @@
 Ella Aronsson loggbok
 =====================
+21-11-22
+--------
+gjort:
+* 7100 uppgit 2 
+* 7100 uppgift 3 (blev inte klar)
+
 24-11-18
 --------
 gjort:
-* 7100 uppgift 2
+* 7100 uppgift 2 (blev ej klar)
+
 24-11-15
 ---------
 gjort:
 * 7100 uppgift 1 (blev klar)
+
 24-11-11
 --------
 gjort:
 * 7096 uppgit 1
 * 7100 uppgift 1 (blev inte klar)
+
 24-11-8
 -------
 gjort:
 * 7095 uppgift 5
 * 7096 uppgift 1
+
 24-11-4
 -------
 gjort:
