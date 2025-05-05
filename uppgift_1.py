@@ -8,5 +8,5 @@ number=random.random()
 option= random.choice(options)
 
 print(option)
- if tärning_1== tärning_2:
-        print("vinst")
+if tärning_1== tärning_2:
+       print("vinst")
