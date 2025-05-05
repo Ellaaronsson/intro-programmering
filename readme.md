@@ -1,14 +1,63 @@
 Ella Aronsson loggbok
 =====================
-21-11-22
+25-
+--------
+25-02-24
+--------
+* 7 10001st prime avklarad
+* 25_1000 digit sum 
+
+25-02-17
 --------
 gjort:
-* 7100 uppgit 2 
+* 7 10001st prime påbörjad
+
+25-02-7
+-------
+gjort:
+* 5 smallest multiple
+25-01-3
+-------
+gjort:
+* 10 summation of primes
+25-01-27
+--------
+gjort:
+* project euler (1_even_fibonacci_numbers)
+
+25-01-20
+--------
+gjort:
+* 7100 uppgift 6
+* 7100 uppgift 7
+25-01-17
+--------
+gjort:
+* 7100 uppgift 4
+* 7100 uppgift 5
+
+25-01-13
+--------
+gjort:
+* 7097 uppgift 1
+* 7097 uppgift 2
+
+25-01-10
+--------
+gjort:
+* 7100 uppgift 3 klar
+* 7097 lisor del 1 (håller på)
+
+24-11-22
+--------
+gjort:
+* 7100 uppgit 2 (blev klar)
 * 7100 uppgift 3 (blev inte klar)
 
 24-11-18
 --------
 gjort:
+* 7100 uppgift 1 (klar)
 * 7100 uppgift 2 (blev ej klar)
 
 24-11-15
@@ -26,7 +75,7 @@ gjort:
 -------
 gjort:
 * 7095 uppgift 5
-* 7096 uppgift 1
+* 7096 uppgift 1 (blev ej klar)
 
 24-11-4
 -------
@@ -46,6 +95,7 @@ gjort:
 * 7070 uppgift 9 (klar)
 * 7073 uppgift 1
 * 7073 uppgift 2
+* 7073 uppgift 3, 4, 5, 6 och 7 ej klara
 
 24-10-25
 --------
@@ -61,13 +111,14 @@ gjort:
 * 7070 uppgift 5
 * 7070 uppgift 6
 
-11-10-30
+24-10-11
 --------
 gjort:
 * 7070 uppgift 2 (blev klar)
 * 7070 uppgift 3 
 * 7070 uppgift 4 (inte klar)
-24-10-30
+
+24-10-04
 --------
 gjort:
 * 7070 uppgift 1
